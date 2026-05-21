@@ -1,6 +1,6 @@
 # RainCheck - K-12 Lesson Plan Tool
 
-RainCheck helps teachers create and review lesson plans using AI.
+RainCheck helps teachers create and review lesson plans using AI. RainCheck is a perfect solution for when teachers are out and substitutes are needed. 
 
 ## What It Does
 
